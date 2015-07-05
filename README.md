@@ -10,4 +10,5 @@ python client dirtosync
 ## requirements 
 
 python 2.x 
+
 wxpython
